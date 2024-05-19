@@ -1,2 +1,2 @@
-# wipro-demo
-this is  wipro nga traing
+# wipro-repo
+this is  wipro nga training
